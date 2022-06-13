@@ -2,7 +2,7 @@ const nameBoss = "Геннадий Адольфович";
 const amountPurchases = 100;
 const primeCost = 150;
 const deliveryCost = 50;
-const sellingPrice = 450;
+const sellingPrice = 120;
 const currentMonth = "Январь (2022г)"
 
 let companyIncome = amountPurchases * sellingPrice; // Доходы компании

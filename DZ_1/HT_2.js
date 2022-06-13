@@ -1,4 +1,4 @@
-const myWallet = 230;
+const myWallet = 170;
 const pastaPrice = 40;
 const meatPrice = 100;
 const milkPrice = 30;

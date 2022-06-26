@@ -1,3 +1,4 @@
+//#4-Task.
 const myFighter = {
   name: 'Franko "Axe"',
   win: 16,

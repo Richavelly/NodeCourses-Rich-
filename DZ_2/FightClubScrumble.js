@@ -1,4 +1,4 @@
-//#3-Task
+//#3-Task.
 const resultFight = [
 {name: 'Richard "Adamant"', win: true, loose: false, draw: false},
 {name: 'Lewis "Bullet"', win: false, loose: true, draw: false},

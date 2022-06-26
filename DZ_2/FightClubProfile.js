@@ -1,4 +1,4 @@
-//#2-Task 
+//#2-Task.
 const fighterName = 'Franko "Axe"';
 const fighterWin = '14';
 const fighterLoose = '2';

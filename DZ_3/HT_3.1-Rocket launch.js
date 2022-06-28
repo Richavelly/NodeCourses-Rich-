@@ -13,7 +13,7 @@ function rocketLaunch(boardName, stopWatch) {
             clearInterval(timer);  
             setTimeout(() => { 
                 console.log(`Пуск!!!\nРакета "${boardName}" - успешно запущена!`);
-                }, 1000);
+            }, 1000);
         };
         endTime--;
     }, 1000);
